@@ -1,0 +1,3 @@
+- currency exchange per region
+- measurement size, weight, temperature
+- timezone
