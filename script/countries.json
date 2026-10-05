@@ -1,0 +1,25 @@
+[
+  {
+    "country": {
+      "name": {
+        "local": "Loris",
+        "common": "Lorem"
+      },
+      "code": "LOR",
+      "number": -1
+    },
+    "currency": {
+      "name": {
+        "local": "Ipsium",
+        "common": "Ipsum"
+      },
+      "symbol": {
+        "local": "I",
+        "common": "IPS"
+      },
+      "rounding": -2,
+      "code": "IPS",
+      "number": -1
+    }
+  }
+]

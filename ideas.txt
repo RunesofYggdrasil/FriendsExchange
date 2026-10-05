@@ -1,3 +1,5 @@
 - currency exchange per region
 - measurement size, weight, temperature
 - timezone
+- native symbol vs common symbol etc on countries json
+- find way of getting currency local name
