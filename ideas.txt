@@ -3,3 +3,5 @@
 - timezone
 - native symbol vs common symbol etc on countries json
 - find way of getting currency local name
+- store friend list with cookies
+    - checkbox selection
