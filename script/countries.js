@@ -18,24 +18,23 @@ async function getCountries() {
 }
 
 async function setCountries() {
-  const currencies = await getData("script/common_currency.json");
+  const currencies = await getData("script/data/common_currency.json");
   const countries = await getCountries();
   const newCountries = [];
-  // let newCountry = {
-  //   country: {
-  //     name: { local: "Loris", common: "Lorem" },
-  //     code: "LOR",
-  //     number: -1,
-  //   },
-  //   currency: {
-  //     name: { local: "Ipsium", common: "Ipsum" },
-  //     symbol: { local: "I", common: "IPS" },
-  //     rounding: -2,
-  //     code: "IPS",
-  //     number: -1,
-  //   },
-  // };
-  let newCountry = {};
+  let newCountry = {
+    country: {
+      name: { local: "Loris", common: "Lorem" },
+      code: "LOR",
+      number: -1,
+    },
+    currency: {
+      name: { local: "Ipsium", common: "Ipsum" },
+      symbol: { local: "I", common: "IPS" },
+      rounding: -2,
+      code: "IPS",
+      number: -1,
+    },
+  };
   for (var oldCurrency in currencies) {
     newCountry.country.name.local = "Unknown";
     newCountry.currency.name.local = "Unknown";
