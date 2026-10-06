@@ -35,23 +35,26 @@ async function setCountries() {
       number: -1,
     },
   };
-  for (var oldCurrency in currencies) {
-    newCountry.country.name.local = "Unknown";
-    newCountry.currency.name.local = "Unknown";
-    newCountry.currency.name.common = oldCurrency.name_plural;
-    newCountry.currency.symbol.local = oldCurrency.symbol_native;
-    newCountry.currency.symbol.common = oldCurrency.symbol;
-    newCountry.currency.rounding = oldCurrency.decimal_digits;
-    newCountry.currency.code = oldCurrency.code;
-
+  for (var i = 0; i < currencies.length; i++) {
+    let oldCurrency = currencies[i];
     let oldCountry = countries.find((country) => {
-      return country.currency_code == oldCurrency.code;
+      return country.currency_code == oldCurrency.code.toLowerCase();
     });
-    newCountry.country.name.common = oldCountry.country_name;
-    newCountry.country.code = oldCountry.country_iso3;
-    newCountry.country.number = oldCountry.country_iso_numeric;
-    newCountry.currency.number = oldCountry.currency_number;
-
+    if (oldCountry === undefined) {
+      console.log("Error on " + oldCurrency.name_plural);
+    } else {
+      newCountry.country.name.local = "Unknown";
+      newCountry.country.name.common = oldCountry.country_name;
+      newCountry.country.code = oldCountry.country_iso3;
+      newCountry.country.number = oldCountry.country_iso_numeric;
+      newCountry.currency.name.local = "Unknown";
+      newCountry.currency.name.common = oldCurrency.name_plural;
+      newCountry.currency.symbol.local = oldCurrency.symbol_native;
+      newCountry.currency.symbol.common = oldCurrency.symbol;
+      newCountry.currency.rounding = oldCurrency.decimal_digits;
+      newCountry.currency.code = oldCurrency.code;
+      newCountry.currency.number = oldCountry.currency_number;
+    }
     newCountries.push(newCountry);
   }
   console.log(newCountries);
