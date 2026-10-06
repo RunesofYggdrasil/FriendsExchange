@@ -2,24 +2,2715 @@
   {
     "country": {
       "name": {
-        "local": "Loris",
-        "common": "Lorem"
+        "local": "Unknown",
+        "common": "United Arab Emirates (the)"
       },
-      "code": "LOR",
-      "number": -1
+      "code": "are",
+      "number": "784"
     },
     "currency": {
       "name": {
-        "local": "Ipsium",
-        "common": "Ipsum"
+        "local": "Unknown",
+        "common": "UAE Dirhams"
       },
       "symbol": {
-        "local": "I",
-        "common": "IPS"
+        "local": "د.إ.‏",
+        "common": "AED"
       },
-      "rounding": -2,
-      "code": "IPS",
-      "number": -1
+      "rounding": 2,
+      "code": "AED",
+      "number": "784"
+    }
+  },
+  {
+    "country": {
+      "name": {
+        "local": "Unknown",
+        "common": "Afghanistan"
+      },
+      "code": "afg",
+      "number": "4"
+    },
+    "currency": {
+      "name": {
+        "local": "Unknown",
+        "common": "Afghan Afghanis"
+      },
+      "symbol": {
+        "local": "؋",
+        "common": "Af"
+      },
+      "rounding": 0,
+      "code": "AFN",
+      "number": "971"
+    }
+  },
+  {
+    "country": {
+      "name": {
+        "local": "Unknown",
+        "common": "Albania"
+      },
+      "code": "alb",
+      "number": "8"
+    },
+    "currency": {
+      "name": {
+        "local": "Unknown",
+        "common": "Albanian Lekë"
+      },
+      "symbol": {
+        "local": "Lek",
+        "common": "ALL"
+      },
+      "rounding": 0,
+      "code": "ALL",
+      "number": "8"
+    }
+  },
+  {
+    "country": {
+      "name": {
+        "local": "Unknown",
+        "common": "Armenia"
+      },
+      "code": "arm",
+      "number": "51"
+    },
+    "currency": {
+      "name": {
+        "local": "Unknown",
+        "common": "Armenian Drams"
+      },
+      "symbol": {
+        "local": "դր.",
+        "common": "AMD"
+      },
+      "rounding": 0,
+      "code": "AMD",
+      "number": "51"
+    }
+  },
+  {
+    "country": {
+      "name": {
+        "local": "Unknown",
+        "common": "Argentina"
+      },
+      "code": "arg",
+      "number": "32"
+    },
+    "currency": {
+      "name": {
+        "local": "Unknown",
+        "common": "Argentine Pesos"
+      },
+      "symbol": {
+        "local": "$",
+        "common": "AR$"
+      },
+      "rounding": 2,
+      "code": "ARS",
+      "number": "32"
+    }
+  },
+  {
+    "country": {
+      "name": {
+        "local": "Unknown",
+        "common": "Australia"
+      },
+      "code": "aus",
+      "number": "36"
+    },
+    "currency": {
+      "name": {
+        "local": "Unknown",
+        "common": "Australian Dollars"
+      },
+      "symbol": {
+        "local": "$",
+        "common": "AU$"
+      },
+      "rounding": 2,
+      "code": "AUD",
+      "number": "36"
+    }
+  },
+  {
+    "country": {
+      "name": {
+        "local": "Unknown",
+        "common": "Azerbaijan"
+      },
+      "code": "aze",
+      "number": "31"
+    },
+    "currency": {
+      "name": {
+        "local": "Unknown",
+        "common": "Azerbaijani Manats"
+      },
+      "symbol": {
+        "local": "ман.",
+        "common": "man."
+      },
+      "rounding": 2,
+      "code": "AZN",
+      "number": "944"
+    }
+  },
+  {
+    "country": {
+      "name": {
+        "local": "Unknown",
+        "common": "Bosnia and Herzegovina"
+      },
+      "code": "bih",
+      "number": "70"
+    },
+    "currency": {
+      "name": {
+        "local": "Unknown",
+        "common": "Bosnia-Herzegovina Convertible Marks"
+      },
+      "symbol": {
+        "local": "KM",
+        "common": "KM"
+      },
+      "rounding": 2,
+      "code": "BAM",
+      "number": "977"
+    }
+  },
+  {
+    "country": {
+      "name": {
+        "local": "Unknown",
+        "common": "Bangladesh"
+      },
+      "code": "bgd",
+      "number": "50"
+    },
+    "currency": {
+      "name": {
+        "local": "Unknown",
+        "common": "Bangladeshi Takas"
+      },
+      "symbol": {
+        "local": "৳",
+        "common": "Tk"
+      },
+      "rounding": 2,
+      "code": "BDT",
+      "number": "50"
+    }
+  },
+  {
+    "country": {
+      "name": {
+        "local": "Unknown",
+        "common": "Bulgaria"
+      },
+      "code": "bgr",
+      "number": "100"
+    },
+    "currency": {
+      "name": {
+        "local": "Unknown",
+        "common": "Bulgarian Leva"
+      },
+      "symbol": {
+        "local": "лв.",
+        "common": "BGN"
+      },
+      "rounding": 2,
+      "code": "BGN",
+      "number": "975"
+    }
+  },
+  {
+    "country": {
+      "name": {
+        "local": "Unknown",
+        "common": "Bahrain"
+      },
+      "code": "bhr",
+      "number": "48"
+    },
+    "currency": {
+      "name": {
+        "local": "Unknown",
+        "common": "Bahraini Dinars"
+      },
+      "symbol": {
+        "local": "د.ب.‏",
+        "common": "BD"
+      },
+      "rounding": 3,
+      "code": "BHD",
+      "number": "48"
+    }
+  },
+  {
+    "country": {
+      "name": {
+        "local": "Unknown",
+        "common": "Burundi"
+      },
+      "code": "bdi",
+      "number": "108"
+    },
+    "currency": {
+      "name": {
+        "local": "Unknown",
+        "common": "Burundian Francs"
+      },
+      "symbol": {
+        "local": "FBu",
+        "common": "FBu"
+      },
+      "rounding": 0,
+      "code": "BIF",
+      "number": "108"
+    }
+  },
+  {
+    "country": {
+      "name": {
+        "local": "Unknown",
+        "common": "Brunei Darussalam"
+      },
+      "code": "brn",
+      "number": "96"
+    },
+    "currency": {
+      "name": {
+        "local": "Unknown",
+        "common": "Brunei Dollars"
+      },
+      "symbol": {
+        "local": "$",
+        "common": "BN$"
+      },
+      "rounding": 2,
+      "code": "BND",
+      "number": "96"
+    }
+  },
+  {
+    "country": {
+      "name": {
+        "local": "Unknown",
+        "common": "Bolivia (Plurinational State of)"
+      },
+      "code": "bol",
+      "number": "68"
+    },
+    "currency": {
+      "name": {
+        "local": "Unknown",
+        "common": "Bolivian Bolivianos"
+      },
+      "symbol": {
+        "local": "Bs",
+        "common": "Bs"
+      },
+      "rounding": 2,
+      "code": "BOB",
+      "number": "68"
+    }
+  },
+  {
+    "country": {
+      "name": {
+        "local": "Unknown",
+        "common": "Brazil"
+      },
+      "code": "bra",
+      "number": "76"
+    },
+    "currency": {
+      "name": {
+        "local": "Unknown",
+        "common": "Brazilian Reals"
+      },
+      "symbol": {
+        "local": "R$",
+        "common": "R$"
+      },
+      "rounding": 2,
+      "code": "BRL",
+      "number": "986"
+    }
+  },
+  {
+    "country": {
+      "name": {
+        "local": "Unknown",
+        "common": "Botswana"
+      },
+      "code": "bwa",
+      "number": "72"
+    },
+    "currency": {
+      "name": {
+        "local": "Unknown",
+        "common": "Botswanan Pulas"
+      },
+      "symbol": {
+        "local": "P",
+        "common": "BWP"
+      },
+      "rounding": 2,
+      "code": "BWP",
+      "number": "72"
+    }
+  },
+  {
+    "country": {
+      "name": {
+        "local": "Unknown",
+        "common": "Belarus"
+      },
+      "code": "blr",
+      "number": "112"
+    },
+    "currency": {
+      "name": {
+        "local": "Unknown",
+        "common": "Belarusian Rubles"
+      },
+      "symbol": {
+        "local": "руб.",
+        "common": "Br"
+      },
+      "rounding": 2,
+      "code": "BYN",
+      "number": "933"
+    }
+  },
+  {
+    "country": {
+      "name": {
+        "local": "Unknown",
+        "common": "Belize"
+      },
+      "code": "blz",
+      "number": "84"
+    },
+    "currency": {
+      "name": {
+        "local": "Unknown",
+        "common": "Belize Dollars"
+      },
+      "symbol": {
+        "local": "$",
+        "common": "BZ$"
+      },
+      "rounding": 2,
+      "code": "BZD",
+      "number": "84"
+    }
+  },
+  {
+    "country": {
+      "name": {
+        "local": "Unknown",
+        "common": "Canada"
+      },
+      "code": "can",
+      "number": "124"
+    },
+    "currency": {
+      "name": {
+        "local": "Unknown",
+        "common": "Canadian Dollars"
+      },
+      "symbol": {
+        "local": "$",
+        "common": "CA$"
+      },
+      "rounding": 2,
+      "code": "CAD",
+      "number": "124"
+    }
+  },
+  {
+    "country": {
+      "name": {
+        "local": "Unknown",
+        "common": "Congo (the Democratic Republic of the)"
+      },
+      "code": "cod",
+      "number": "180"
+    },
+    "currency": {
+      "name": {
+        "local": "Unknown",
+        "common": "Congolese Francs"
+      },
+      "symbol": {
+        "local": "FrCD",
+        "common": "CDF"
+      },
+      "rounding": 2,
+      "code": "CDF",
+      "number": "976"
+    }
+  },
+  {
+    "country": {
+      "name": {
+        "local": "Unknown",
+        "common": "Liechtenstein"
+      },
+      "code": "lie",
+      "number": "438"
+    },
+    "currency": {
+      "name": {
+        "local": "Unknown",
+        "common": "Swiss Francs"
+      },
+      "symbol": {
+        "local": "CHF",
+        "common": "CHF"
+      },
+      "rounding": 2,
+      "code": "CHF",
+      "number": "756"
+    }
+  },
+  {
+    "country": {
+      "name": {
+        "local": "Unknown",
+        "common": "Chile"
+      },
+      "code": "chl",
+      "number": "152"
+    },
+    "currency": {
+      "name": {
+        "local": "Unknown",
+        "common": "Chilean Pesos"
+      },
+      "symbol": {
+        "local": "$",
+        "common": "CL$"
+      },
+      "rounding": 0,
+      "code": "CLP",
+      "number": "152"
+    }
+  },
+  {
+    "country": {
+      "name": {
+        "local": "Unknown",
+        "common": "China"
+      },
+      "code": "chn",
+      "number": "156"
+    },
+    "currency": {
+      "name": {
+        "local": "Unknown",
+        "common": "Chinese Yuan"
+      },
+      "symbol": {
+        "local": "CN¥",
+        "common": "CN¥"
+      },
+      "rounding": 2,
+      "code": "CNY",
+      "number": "156"
+    }
+  },
+  {
+    "country": {
+      "name": {
+        "local": "Unknown",
+        "common": "Colombia"
+      },
+      "code": "col",
+      "number": "170"
+    },
+    "currency": {
+      "name": {
+        "local": "Unknown",
+        "common": "Colombian Pesos"
+      },
+      "symbol": {
+        "local": "$",
+        "common": "CO$"
+      },
+      "rounding": 0,
+      "code": "COP",
+      "number": "170"
+    }
+  },
+  {
+    "country": {
+      "name": {
+        "local": "Unknown",
+        "common": "Costa Rica"
+      },
+      "code": "cri",
+      "number": "188"
+    },
+    "currency": {
+      "name": {
+        "local": "Unknown",
+        "common": "Costa Rican Colóns"
+      },
+      "symbol": {
+        "local": "₡",
+        "common": "₡"
+      },
+      "rounding": 0,
+      "code": "CRC",
+      "number": "188"
+    }
+  },
+  {
+    "country": {
+      "name": {
+        "local": "Unknown",
+        "common": "Cabo verde"
+      },
+      "code": "cpv",
+      "number": "132"
+    },
+    "currency": {
+      "name": {
+        "local": "Unknown",
+        "common": "Cape Verdean Escudos"
+      },
+      "symbol": {
+        "local": "CV$",
+        "common": "CV$"
+      },
+      "rounding": 2,
+      "code": "CVE",
+      "number": "132"
+    }
+  },
+  {
+    "country": {
+      "name": {
+        "local": "Unknown",
+        "common": "Djibouti"
+      },
+      "code": "dji",
+      "number": "262"
+    },
+    "currency": {
+      "name": {
+        "local": "Unknown",
+        "common": "Djiboutian Francs"
+      },
+      "symbol": {
+        "local": "Fdj",
+        "common": "Fdj"
+      },
+      "rounding": 0,
+      "code": "DJF",
+      "number": "262"
+    }
+  },
+  {
+    "country": {
+      "name": {
+        "local": "Unknown",
+        "common": "Denmark"
+      },
+      "code": "dnk",
+      "number": "208"
+    },
+    "currency": {
+      "name": {
+        "local": "Unknown",
+        "common": "Danish Kroner"
+      },
+      "symbol": {
+        "local": "kr",
+        "common": "Dkr"
+      },
+      "rounding": 2,
+      "code": "DKK",
+      "number": "208"
+    }
+  },
+  {
+    "country": {
+      "name": {
+        "local": "Unknown",
+        "common": "Dominican Republic (the)"
+      },
+      "code": "dom",
+      "number": "214"
+    },
+    "currency": {
+      "name": {
+        "local": "Unknown",
+        "common": "Dominican Pesos"
+      },
+      "symbol": {
+        "local": "RD$",
+        "common": "RD$"
+      },
+      "rounding": 2,
+      "code": "DOP",
+      "number": "214"
+    }
+  },
+  {
+    "country": {
+      "name": {
+        "local": "Unknown",
+        "common": "Algeria"
+      },
+      "code": "dza",
+      "number": "12"
+    },
+    "currency": {
+      "name": {
+        "local": "Unknown",
+        "common": "Algerian Dinars"
+      },
+      "symbol": {
+        "local": "د.ج.‏",
+        "common": "DA"
+      },
+      "rounding": 2,
+      "code": "DZD",
+      "number": "12"
+    }
+  },
+  {
+    "country": {
+      "name": {
+        "local": "Unknown",
+        "common": "Estonia"
+      },
+      "code": "est",
+      "number": "233"
+    },
+    "currency": {
+      "name": {
+        "local": "Unknown",
+        "common": "Euros"
+      },
+      "symbol": {
+        "local": "€",
+        "common": "€"
+      },
+      "rounding": 2,
+      "code": "EUR",
+      "number": "978"
+    }
+  },
+  {
+    "country": {
+      "name": {
+        "local": "Unknown",
+        "common": "Egypt"
+      },
+      "code": "egy",
+      "number": "818"
+    },
+    "currency": {
+      "name": {
+        "local": "Unknown",
+        "common": "Egyptian Pounds"
+      },
+      "symbol": {
+        "local": "ج.م.‏",
+        "common": "EGP"
+      },
+      "rounding": 2,
+      "code": "EGP",
+      "number": "818"
+    }
+  },
+  {
+    "country": {
+      "name": {
+        "local": "Unknown",
+        "common": "Eritrea"
+      },
+      "code": "eri",
+      "number": "232"
+    },
+    "currency": {
+      "name": {
+        "local": "Unknown",
+        "common": "Eritrean Nakfas"
+      },
+      "symbol": {
+        "local": "Nfk",
+        "common": "Nfk"
+      },
+      "rounding": 2,
+      "code": "ERN",
+      "number": "232"
+    }
+  },
+  {
+    "country": {
+      "name": {
+        "local": "Unknown",
+        "common": "Ethiopia"
+      },
+      "code": "eth",
+      "number": "231"
+    },
+    "currency": {
+      "name": {
+        "local": "Unknown",
+        "common": "Ethiopian Birrs"
+      },
+      "symbol": {
+        "local": "Br",
+        "common": "Br"
+      },
+      "rounding": 2,
+      "code": "ETB",
+      "number": "230"
+    }
+  },
+  {
+    "country": {
+      "name": {
+        "local": "Unknown",
+        "common": "Andorra"
+      },
+      "code": "and",
+      "number": "20"
+    },
+    "currency": {
+      "name": {
+        "local": "Unknown",
+        "common": "Euros"
+      },
+      "symbol": {
+        "local": "€",
+        "common": "€"
+      },
+      "rounding": 2,
+      "code": "EUR",
+      "number": "978"
+    }
+  },
+  {
+    "country": {
+      "name": {
+        "local": "Unknown",
+        "common": "Guernsey"
+      },
+      "code": "ggy",
+      "number": "831"
+    },
+    "currency": {
+      "name": {
+        "local": "Unknown",
+        "common": "British Pounds Sterling"
+      },
+      "symbol": {
+        "local": "£",
+        "common": "£"
+      },
+      "rounding": 2,
+      "code": "GBP",
+      "number": "826"
+    }
+  },
+  {
+    "country": {
+      "name": {
+        "local": "Unknown",
+        "common": "Georgia"
+      },
+      "code": "geo",
+      "number": "268"
+    },
+    "currency": {
+      "name": {
+        "local": "Unknown",
+        "common": "Georgian Laris"
+      },
+      "symbol": {
+        "local": "GEL",
+        "common": "GEL"
+      },
+      "rounding": 2,
+      "code": "GEL",
+      "number": "981"
+    }
+  },
+  {
+    "country": {
+      "name": {
+        "local": "Unknown",
+        "common": "Ghana"
+      },
+      "code": "gha",
+      "number": "288"
+    },
+    "currency": {
+      "name": {
+        "local": "Unknown",
+        "common": "Ghanaian Cedis"
+      },
+      "symbol": {
+        "local": "GH₵",
+        "common": "GH₵"
+      },
+      "rounding": 2,
+      "code": "GHS",
+      "number": "936"
+    }
+  },
+  {
+    "country": {
+      "name": {
+        "local": "Unknown",
+        "common": "Guinea"
+      },
+      "code": "gin",
+      "number": "324"
+    },
+    "currency": {
+      "name": {
+        "local": "Unknown",
+        "common": "Guinean Francs"
+      },
+      "symbol": {
+        "local": "FG",
+        "common": "FG"
+      },
+      "rounding": 0,
+      "code": "GNF",
+      "number": "324"
+    }
+  },
+  {
+    "country": {
+      "name": {
+        "local": "Unknown",
+        "common": "Guatemala"
+      },
+      "code": "gtm",
+      "number": "320"
+    },
+    "currency": {
+      "name": {
+        "local": "Unknown",
+        "common": "Guatemalan Quetzals"
+      },
+      "symbol": {
+        "local": "Q",
+        "common": "GTQ"
+      },
+      "rounding": 2,
+      "code": "GTQ",
+      "number": "320"
+    }
+  },
+  {
+    "country": {
+      "name": {
+        "local": "Unknown",
+        "common": "Hong Kong"
+      },
+      "code": "hkg",
+      "number": "344"
+    },
+    "currency": {
+      "name": {
+        "local": "Unknown",
+        "common": "Hong Kong Dollars"
+      },
+      "symbol": {
+        "local": "$",
+        "common": "HK$"
+      },
+      "rounding": 2,
+      "code": "HKD",
+      "number": "344"
+    }
+  },
+  {
+    "country": {
+      "name": {
+        "local": "Unknown",
+        "common": "Honduras"
+      },
+      "code": "hnd",
+      "number": "340"
+    },
+    "currency": {
+      "name": {
+        "local": "Unknown",
+        "common": "Honduran Lempiras"
+      },
+      "symbol": {
+        "local": "L",
+        "common": "HNL"
+      },
+      "rounding": 2,
+      "code": "HNL",
+      "number": "340"
+    }
+  },
+  {
+    "country": {
+      "name": {
+        "local": "Unknown",
+        "common": "Croatia"
+      },
+      "code": "hrv",
+      "number": "191"
+    },
+    "currency": {
+      "name": {
+        "local": "Unknown",
+        "common": "Croatian Kunas"
+      },
+      "symbol": {
+        "local": "kn",
+        "common": "kn"
+      },
+      "rounding": 2,
+      "code": "HRK",
+      "number": "191"
+    }
+  },
+  {
+    "country": {
+      "name": {
+        "local": "Unknown",
+        "common": "Hungary"
+      },
+      "code": "hun",
+      "number": "348"
+    },
+    "currency": {
+      "name": {
+        "local": "Unknown",
+        "common": "Hungarian Forints"
+      },
+      "symbol": {
+        "local": "Ft",
+        "common": "Ft"
+      },
+      "rounding": 0,
+      "code": "HUF",
+      "number": "348"
+    }
+  },
+  {
+    "country": {
+      "name": {
+        "local": "Unknown",
+        "common": "Indonesia"
+      },
+      "code": "idn",
+      "number": "360"
+    },
+    "currency": {
+      "name": {
+        "local": "Unknown",
+        "common": "Indonesian Rupiahs"
+      },
+      "symbol": {
+        "local": "Rp",
+        "common": "Rp"
+      },
+      "rounding": 0,
+      "code": "IDR",
+      "number": "360"
+    }
+  },
+  {
+    "country": {
+      "name": {
+        "local": "Unknown",
+        "common": "Israel"
+      },
+      "code": "isr",
+      "number": "376"
+    },
+    "currency": {
+      "name": {
+        "local": "Unknown",
+        "common": "Israeli New Sheqels"
+      },
+      "symbol": {
+        "local": "₪",
+        "common": "₪"
+      },
+      "rounding": 2,
+      "code": "ILS",
+      "number": "376"
+    }
+  },
+  {
+    "country": {
+      "name": {
+        "local": "Unknown",
+        "common": "India"
+      },
+      "code": "ind",
+      "number": "356"
+    },
+    "currency": {
+      "name": {
+        "local": "Unknown",
+        "common": "Indian Rupees"
+      },
+      "symbol": {
+        "local": "টকা",
+        "common": "Rs"
+      },
+      "rounding": 2,
+      "code": "INR",
+      "number": "356"
+    }
+  },
+  {
+    "country": {
+      "name": {
+        "local": "Unknown",
+        "common": "Iraq"
+      },
+      "code": "irq",
+      "number": "368"
+    },
+    "currency": {
+      "name": {
+        "local": "Unknown",
+        "common": "Iraqi Dinars"
+      },
+      "symbol": {
+        "local": "د.ع.‏",
+        "common": "IQD"
+      },
+      "rounding": 0,
+      "code": "IQD",
+      "number": "368"
+    }
+  },
+  {
+    "country": {
+      "name": {
+        "local": "Unknown",
+        "common": "Iran (Islamic Republic of)"
+      },
+      "code": "irn",
+      "number": "364"
+    },
+    "currency": {
+      "name": {
+        "local": "Unknown",
+        "common": "Iranian Rials"
+      },
+      "symbol": {
+        "local": "﷼",
+        "common": "IRR"
+      },
+      "rounding": 0,
+      "code": "IRR",
+      "number": "364"
+    }
+  },
+  {
+    "country": {
+      "name": {
+        "local": "Unknown",
+        "common": "Iceland"
+      },
+      "code": "isl",
+      "number": "352"
+    },
+    "currency": {
+      "name": {
+        "local": "Unknown",
+        "common": "Icelandic Krónur"
+      },
+      "symbol": {
+        "local": "kr",
+        "common": "Ikr"
+      },
+      "rounding": 0,
+      "code": "ISK",
+      "number": "352"
+    }
+  },
+  {
+    "country": {
+      "name": {
+        "local": "Unknown",
+        "common": "Jamaica"
+      },
+      "code": "jam",
+      "number": "388"
+    },
+    "currency": {
+      "name": {
+        "local": "Unknown",
+        "common": "Jamaican Dollars"
+      },
+      "symbol": {
+        "local": "$",
+        "common": "J$"
+      },
+      "rounding": 2,
+      "code": "JMD",
+      "number": "388"
+    }
+  },
+  {
+    "country": {
+      "name": {
+        "local": "Unknown",
+        "common": "Jordan"
+      },
+      "code": "jor",
+      "number": "400"
+    },
+    "currency": {
+      "name": {
+        "local": "Unknown",
+        "common": "Jordanian Dinars"
+      },
+      "symbol": {
+        "local": "د.أ.‏",
+        "common": "JD"
+      },
+      "rounding": 3,
+      "code": "JOD",
+      "number": "400"
+    }
+  },
+  {
+    "country": {
+      "name": {
+        "local": "Unknown",
+        "common": "Japan"
+      },
+      "code": "jpn",
+      "number": "392"
+    },
+    "currency": {
+      "name": {
+        "local": "Unknown",
+        "common": "Japanese Yen"
+      },
+      "symbol": {
+        "local": "￥",
+        "common": "¥"
+      },
+      "rounding": 0,
+      "code": "JPY",
+      "number": "392"
+    }
+  },
+  {
+    "country": {
+      "name": {
+        "local": "Unknown",
+        "common": "Kenya"
+      },
+      "code": "ken",
+      "number": "404"
+    },
+    "currency": {
+      "name": {
+        "local": "Unknown",
+        "common": "Kenyan Shillings"
+      },
+      "symbol": {
+        "local": "Ksh",
+        "common": "Ksh"
+      },
+      "rounding": 2,
+      "code": "KES",
+      "number": "404"
+    }
+  },
+  {
+    "country": {
+      "name": {
+        "local": "Unknown",
+        "common": "Cambodia"
+      },
+      "code": "khm",
+      "number": "116"
+    },
+    "currency": {
+      "name": {
+        "local": "Unknown",
+        "common": "Cambodian Riels"
+      },
+      "symbol": {
+        "local": "៛",
+        "common": "KHR"
+      },
+      "rounding": 2,
+      "code": "KHR",
+      "number": "116"
+    }
+  },
+  {
+    "country": {
+      "name": {
+        "local": "Unknown",
+        "common": "Comoros (the)"
+      },
+      "code": "com",
+      "number": "174"
+    },
+    "currency": {
+      "name": {
+        "local": "Unknown",
+        "common": "Comorian Francs"
+      },
+      "symbol": {
+        "local": "FC",
+        "common": "CF"
+      },
+      "rounding": 0,
+      "code": "KMF",
+      "number": "174"
+    }
+  },
+  {
+    "country": {
+      "name": {
+        "local": "Unknown",
+        "common": "Korea (the Republic of)"
+      },
+      "code": "kor",
+      "number": "410"
+    },
+    "currency": {
+      "name": {
+        "local": "Unknown",
+        "common": "South Korean Won"
+      },
+      "symbol": {
+        "local": "₩",
+        "common": "₩"
+      },
+      "rounding": 0,
+      "code": "KRW",
+      "number": "410"
+    }
+  },
+  {
+    "country": {
+      "name": {
+        "local": "Unknown",
+        "common": "Kuwait"
+      },
+      "code": "kwt",
+      "number": "414"
+    },
+    "currency": {
+      "name": {
+        "local": "Unknown",
+        "common": "Kuwaiti Dinars"
+      },
+      "symbol": {
+        "local": "د.ك.‏",
+        "common": "KD"
+      },
+      "rounding": 3,
+      "code": "KWD",
+      "number": "414"
+    }
+  },
+  {
+    "country": {
+      "name": {
+        "local": "Unknown",
+        "common": "Kazakhstan"
+      },
+      "code": "kaz",
+      "number": "398"
+    },
+    "currency": {
+      "name": {
+        "local": "Unknown",
+        "common": "Kazakhstani Tenges"
+      },
+      "symbol": {
+        "local": "тңг.",
+        "common": "KZT"
+      },
+      "rounding": 2,
+      "code": "KZT",
+      "number": "398"
+    }
+  },
+  {
+    "country": {
+      "name": {
+        "local": "Unknown",
+        "common": "Lebanon"
+      },
+      "code": "lbn",
+      "number": "422"
+    },
+    "currency": {
+      "name": {
+        "local": "Unknown",
+        "common": "Lebanese Pounds"
+      },
+      "symbol": {
+        "local": "ل.ل.‏",
+        "common": "L.L."
+      },
+      "rounding": 0,
+      "code": "LBP",
+      "number": "422"
+    }
+  },
+  {
+    "country": {
+      "name": {
+        "local": "Unknown",
+        "common": "Sri Lanka"
+      },
+      "code": "lka",
+      "number": "144"
+    },
+    "currency": {
+      "name": {
+        "local": "Unknown",
+        "common": "Sri Lankan Rupees"
+      },
+      "symbol": {
+        "local": "SL Re",
+        "common": "SLRs"
+      },
+      "rounding": 2,
+      "code": "LKR",
+      "number": "144"
+    }
+  },
+  {
+    "country": {
+      "name": {
+        "local": "Unknown",
+        "common": "Lithuania"
+      },
+      "code": "ltu",
+      "number": "440"
+    },
+    "currency": {
+      "name": {
+        "local": "Unknown",
+        "common": "Euros"
+      },
+      "symbol": {
+        "local": "€",
+        "common": "€"
+      },
+      "rounding": 2,
+      "code": "EUR",
+      "number": "978"
+    }
+  },
+  {
+    "country": {
+      "name": {
+        "local": "Unknown",
+        "common": "Latvia"
+      },
+      "code": "lva",
+      "number": "428"
+    },
+    "currency": {
+      "name": {
+        "local": "Unknown",
+        "common": "Euros"
+      },
+      "symbol": {
+        "local": "€",
+        "common": "€"
+      },
+      "rounding": 2,
+      "code": "EUR",
+      "number": "978"
+    }
+  },
+  {
+    "country": {
+      "name": {
+        "local": "Unknown",
+        "common": "Libya"
+      },
+      "code": "lby",
+      "number": "434"
+    },
+    "currency": {
+      "name": {
+        "local": "Unknown",
+        "common": "Libyan Dinars"
+      },
+      "symbol": {
+        "local": "د.ل.‏",
+        "common": "LD"
+      },
+      "rounding": 3,
+      "code": "LYD",
+      "number": "434"
+    }
+  },
+  {
+    "country": {
+      "name": {
+        "local": "Unknown",
+        "common": "Morocco"
+      },
+      "code": "mar",
+      "number": "504"
+    },
+    "currency": {
+      "name": {
+        "local": "Unknown",
+        "common": "Moroccan Dirhams"
+      },
+      "symbol": {
+        "local": "د.م.‏",
+        "common": "MAD"
+      },
+      "rounding": 2,
+      "code": "MAD",
+      "number": "504"
+    }
+  },
+  {
+    "country": {
+      "name": {
+        "local": "Unknown",
+        "common": "Moldova (the Republic of)"
+      },
+      "code": "mda",
+      "number": "498"
+    },
+    "currency": {
+      "name": {
+        "local": "Unknown",
+        "common": "Moldovan Lei"
+      },
+      "symbol": {
+        "local": "MDL",
+        "common": "MDL"
+      },
+      "rounding": 2,
+      "code": "MDL",
+      "number": "498"
+    }
+  },
+  {
+    "country": {
+      "name": {
+        "local": "Unknown",
+        "common": "Madagascar"
+      },
+      "code": "mdg",
+      "number": "450"
+    },
+    "currency": {
+      "name": {
+        "local": "Unknown",
+        "common": "Malagasy Ariaries"
+      },
+      "symbol": {
+        "local": "MGA",
+        "common": "MGA"
+      },
+      "rounding": 0,
+      "code": "MGA",
+      "number": "969"
+    }
+  },
+  {
+    "country": {
+      "name": {
+        "local": "Unknown",
+        "common": "Republic of north Macedonia"
+      },
+      "code": "mkd",
+      "number": "807"
+    },
+    "currency": {
+      "name": {
+        "local": "Unknown",
+        "common": "Macedonian Denari"
+      },
+      "symbol": {
+        "local": "MKD",
+        "common": "MKD"
+      },
+      "rounding": 2,
+      "code": "MKD",
+      "number": "807"
+    }
+  },
+  {
+    "country": {
+      "name": {
+        "local": "Unknown",
+        "common": "Myanmar"
+      },
+      "code": "mmr",
+      "number": "104"
+    },
+    "currency": {
+      "name": {
+        "local": "Unknown",
+        "common": "Myanma Kyats"
+      },
+      "symbol": {
+        "local": "K",
+        "common": "MMK"
+      },
+      "rounding": 0,
+      "code": "MMK",
+      "number": "104"
+    }
+  },
+  {
+    "country": {
+      "name": {
+        "local": "Unknown",
+        "common": "Macao"
+      },
+      "code": "mac",
+      "number": "446"
+    },
+    "currency": {
+      "name": {
+        "local": "Unknown",
+        "common": "Macanese Patacas"
+      },
+      "symbol": {
+        "local": "MOP$",
+        "common": "MOP$"
+      },
+      "rounding": 2,
+      "code": "MOP",
+      "number": "446"
+    }
+  },
+  {
+    "country": {
+      "name": {
+        "local": "Unknown",
+        "common": "Mauritius"
+      },
+      "code": "mus",
+      "number": "480"
+    },
+    "currency": {
+      "name": {
+        "local": "Unknown",
+        "common": "Mauritian Rupees"
+      },
+      "symbol": {
+        "local": "MURs",
+        "common": "MURs"
+      },
+      "rounding": 0,
+      "code": "MUR",
+      "number": "480"
+    }
+  },
+  {
+    "country": {
+      "name": {
+        "local": "Unknown",
+        "common": "Mexico"
+      },
+      "code": "mex",
+      "number": "484"
+    },
+    "currency": {
+      "name": {
+        "local": "Unknown",
+        "common": "Mexican Pesos"
+      },
+      "symbol": {
+        "local": "$",
+        "common": "MX$"
+      },
+      "rounding": 2,
+      "code": "MXN",
+      "number": "484"
+    }
+  },
+  {
+    "country": {
+      "name": {
+        "local": "Unknown",
+        "common": "Malaysia"
+      },
+      "code": "mys",
+      "number": "458"
+    },
+    "currency": {
+      "name": {
+        "local": "Unknown",
+        "common": "Malaysian Ringgits"
+      },
+      "symbol": {
+        "local": "RM",
+        "common": "RM"
+      },
+      "rounding": 2,
+      "code": "MYR",
+      "number": "458"
+    }
+  },
+  {
+    "country": {
+      "name": {
+        "local": "Unknown",
+        "common": "Mozambique"
+      },
+      "code": "moz",
+      "number": "508"
+    },
+    "currency": {
+      "name": {
+        "local": "Unknown",
+        "common": "Mozambican Meticals"
+      },
+      "symbol": {
+        "local": "MTn",
+        "common": "MTn"
+      },
+      "rounding": 2,
+      "code": "MZN",
+      "number": "943"
+    }
+  },
+  {
+    "country": {
+      "name": {
+        "local": "Unknown",
+        "common": "Namibia"
+      },
+      "code": "nam",
+      "number": "516"
+    },
+    "currency": {
+      "name": {
+        "local": "Unknown",
+        "common": "Namibian Dollars"
+      },
+      "symbol": {
+        "local": "N$",
+        "common": "N$"
+      },
+      "rounding": 2,
+      "code": "NAD",
+      "number": "516"
+    }
+  },
+  {
+    "country": {
+      "name": {
+        "local": "Unknown",
+        "common": "Nigeria"
+      },
+      "code": "nga",
+      "number": "566"
+    },
+    "currency": {
+      "name": {
+        "local": "Unknown",
+        "common": "Nigerian Nairas"
+      },
+      "symbol": {
+        "local": "₦",
+        "common": "₦"
+      },
+      "rounding": 2,
+      "code": "NGN",
+      "number": "566"
+    }
+  },
+  {
+    "country": {
+      "name": {
+        "local": "Unknown",
+        "common": "Nicaragua"
+      },
+      "code": "nic",
+      "number": "558"
+    },
+    "currency": {
+      "name": {
+        "local": "Unknown",
+        "common": "Nicaraguan Córdobas"
+      },
+      "symbol": {
+        "local": "C$",
+        "common": "C$"
+      },
+      "rounding": 2,
+      "code": "NIO",
+      "number": "558"
+    }
+  },
+  {
+    "country": {
+      "name": {
+        "local": "Unknown",
+        "common": "Bouvet Island"
+      },
+      "code": "bvt",
+      "number": "74"
+    },
+    "currency": {
+      "name": {
+        "local": "Unknown",
+        "common": "Norwegian Kroner"
+      },
+      "symbol": {
+        "local": "kr",
+        "common": "Nkr"
+      },
+      "rounding": 2,
+      "code": "NOK",
+      "number": "578"
+    }
+  },
+  {
+    "country": {
+      "name": {
+        "local": "Unknown",
+        "common": "Nepal"
+      },
+      "code": "npl",
+      "number": "524"
+    },
+    "currency": {
+      "name": {
+        "local": "Unknown",
+        "common": "Nepalese Rupees"
+      },
+      "symbol": {
+        "local": "नेरू",
+        "common": "NPRs"
+      },
+      "rounding": 2,
+      "code": "NPR",
+      "number": "524"
+    }
+  },
+  {
+    "country": {
+      "name": {
+        "local": "Unknown",
+        "common": "Cook Islands (the)"
+      },
+      "code": "cok",
+      "number": "184"
+    },
+    "currency": {
+      "name": {
+        "local": "Unknown",
+        "common": "New Zealand Dollars"
+      },
+      "symbol": {
+        "local": "$",
+        "common": "NZ$"
+      },
+      "rounding": 2,
+      "code": "NZD",
+      "number": "554"
+    }
+  },
+  {
+    "country": {
+      "name": {
+        "local": "Unknown",
+        "common": "Oman"
+      },
+      "code": "omn",
+      "number": "512"
+    },
+    "currency": {
+      "name": {
+        "local": "Unknown",
+        "common": "Omani Rials"
+      },
+      "symbol": {
+        "local": "ر.ع.‏",
+        "common": "OMR"
+      },
+      "rounding": 3,
+      "code": "OMR",
+      "number": "512"
+    }
+  },
+  {
+    "country": {
+      "name": {
+        "local": "Unknown",
+        "common": "Panama"
+      },
+      "code": "pan",
+      "number": "591"
+    },
+    "currency": {
+      "name": {
+        "local": "Unknown",
+        "common": "Panamanian Balboas"
+      },
+      "symbol": {
+        "local": "B/.",
+        "common": "B/."
+      },
+      "rounding": 2,
+      "code": "PAB",
+      "number": "590"
+    }
+  },
+  {
+    "country": {
+      "name": {
+        "local": "Unknown",
+        "common": "Peru"
+      },
+      "code": "per",
+      "number": "604"
+    },
+    "currency": {
+      "name": {
+        "local": "Unknown",
+        "common": "Peruvian Nuevos Soles"
+      },
+      "symbol": {
+        "local": "S/.",
+        "common": "S/."
+      },
+      "rounding": 2,
+      "code": "PEN",
+      "number": "604"
+    }
+  },
+  {
+    "country": {
+      "name": {
+        "local": "Unknown",
+        "common": "Philippines (the)"
+      },
+      "code": "phl",
+      "number": "608"
+    },
+    "currency": {
+      "name": {
+        "local": "Unknown",
+        "common": "Philippine Pesos"
+      },
+      "symbol": {
+        "local": "₱",
+        "common": "₱"
+      },
+      "rounding": 2,
+      "code": "PHP",
+      "number": "608"
+    }
+  },
+  {
+    "country": {
+      "name": {
+        "local": "Unknown",
+        "common": "Pakistan"
+      },
+      "code": "pak",
+      "number": "586"
+    },
+    "currency": {
+      "name": {
+        "local": "Unknown",
+        "common": "Pakistani Rupees"
+      },
+      "symbol": {
+        "local": "₨",
+        "common": "PKRs"
+      },
+      "rounding": 0,
+      "code": "PKR",
+      "number": "586"
+    }
+  },
+  {
+    "country": {
+      "name": {
+        "local": "Unknown",
+        "common": "Poland"
+      },
+      "code": "pol",
+      "number": "616"
+    },
+    "currency": {
+      "name": {
+        "local": "Unknown",
+        "common": "Polish Zlotys"
+      },
+      "symbol": {
+        "local": "zł",
+        "common": "zł"
+      },
+      "rounding": 2,
+      "code": "PLN",
+      "number": "985"
+    }
+  },
+  {
+    "country": {
+      "name": {
+        "local": "Unknown",
+        "common": "Paraguay"
+      },
+      "code": "pry",
+      "number": "600"
+    },
+    "currency": {
+      "name": {
+        "local": "Unknown",
+        "common": "Paraguayan Guaranis"
+      },
+      "symbol": {
+        "local": "₲",
+        "common": "₲"
+      },
+      "rounding": 0,
+      "code": "PYG",
+      "number": "600"
+    }
+  },
+  {
+    "country": {
+      "name": {
+        "local": "Unknown",
+        "common": "Qatar"
+      },
+      "code": "qat",
+      "number": "634"
+    },
+    "currency": {
+      "name": {
+        "local": "Unknown",
+        "common": "Qatari Rials"
+      },
+      "symbol": {
+        "local": "ر.ق.‏",
+        "common": "QR"
+      },
+      "rounding": 2,
+      "code": "QAR",
+      "number": "634"
+    }
+  },
+  {
+    "country": {
+      "name": {
+        "local": "Unknown",
+        "common": "Romania"
+      },
+      "code": "rou",
+      "number": "642"
+    },
+    "currency": {
+      "name": {
+        "local": "Unknown",
+        "common": "Romanian Lei"
+      },
+      "symbol": {
+        "local": "RON",
+        "common": "RON"
+      },
+      "rounding": 2,
+      "code": "RON",
+      "number": "946"
+    }
+  },
+  {
+    "country": {
+      "name": {
+        "local": "Unknown",
+        "common": "Serbia"
+      },
+      "code": "srb",
+      "number": "688"
+    },
+    "currency": {
+      "name": {
+        "local": "Unknown",
+        "common": "Serbian Dinars"
+      },
+      "symbol": {
+        "local": "дин.",
+        "common": "din."
+      },
+      "rounding": 0,
+      "code": "RSD",
+      "number": "941"
+    }
+  },
+  {
+    "country": {
+      "name": {
+        "local": "Unknown",
+        "common": "Russian Federation (the)"
+      },
+      "code": "rus",
+      "number": "643"
+    },
+    "currency": {
+      "name": {
+        "local": "Unknown",
+        "common": "Russian Rubles"
+      },
+      "symbol": {
+        "local": "₽.",
+        "common": "RUB"
+      },
+      "rounding": 2,
+      "code": "RUB",
+      "number": "643"
+    }
+  },
+  {
+    "country": {
+      "name": {
+        "local": "Unknown",
+        "common": "Rwanda"
+      },
+      "code": "rwa",
+      "number": "646"
+    },
+    "currency": {
+      "name": {
+        "local": "Unknown",
+        "common": "Rwandan Francs"
+      },
+      "symbol": {
+        "local": "FR",
+        "common": "RWF"
+      },
+      "rounding": 0,
+      "code": "RWF",
+      "number": "646"
+    }
+  },
+  {
+    "country": {
+      "name": {
+        "local": "Unknown",
+        "common": "Saudi Arabia"
+      },
+      "code": "sau",
+      "number": "682"
+    },
+    "currency": {
+      "name": {
+        "local": "Unknown",
+        "common": "Saudi Riyals"
+      },
+      "symbol": {
+        "local": "ر.س.‏",
+        "common": "SR"
+      },
+      "rounding": 2,
+      "code": "SAR",
+      "number": "682"
+    }
+  },
+  {
+    "country": {
+      "name": {
+        "local": "Unknown",
+        "common": "Sudan (the)"
+      },
+      "code": "sdn",
+      "number": "729"
+    },
+    "currency": {
+      "name": {
+        "local": "Unknown",
+        "common": "Sudanese Pounds"
+      },
+      "symbol": {
+        "local": "SDG",
+        "common": "SDG"
+      },
+      "rounding": 2,
+      "code": "SDG",
+      "number": "938"
+    }
+  },
+  {
+    "country": {
+      "name": {
+        "local": "Unknown",
+        "common": "Sweden"
+      },
+      "code": "swe",
+      "number": "752"
+    },
+    "currency": {
+      "name": {
+        "local": "Unknown",
+        "common": "Swedish Kronor"
+      },
+      "symbol": {
+        "local": "kr",
+        "common": "Skr"
+      },
+      "rounding": 2,
+      "code": "SEK",
+      "number": "752"
+    }
+  },
+  {
+    "country": {
+      "name": {
+        "local": "Unknown",
+        "common": "Singapore"
+      },
+      "code": "sgp",
+      "number": "702"
+    },
+    "currency": {
+      "name": {
+        "local": "Unknown",
+        "common": "Singapore Dollars"
+      },
+      "symbol": {
+        "local": "$",
+        "common": "S$"
+      },
+      "rounding": 2,
+      "code": "SGD",
+      "number": "702"
+    }
+  },
+  {
+    "country": {
+      "name": {
+        "local": "Unknown",
+        "common": "Somalia"
+      },
+      "code": "som",
+      "number": "706"
+    },
+    "currency": {
+      "name": {
+        "local": "Unknown",
+        "common": "Somali Shillings"
+      },
+      "symbol": {
+        "local": "Ssh",
+        "common": "Ssh"
+      },
+      "rounding": 0,
+      "code": "SOS",
+      "number": "706"
+    }
+  },
+  {
+    "country": {
+      "name": {
+        "local": "Unknown",
+        "common": "Syrian Arab Republic"
+      },
+      "code": "syr",
+      "number": "760"
+    },
+    "currency": {
+      "name": {
+        "local": "Unknown",
+        "common": "Syrian Pounds"
+      },
+      "symbol": {
+        "local": "ل.س.‏",
+        "common": "SY£"
+      },
+      "rounding": 0,
+      "code": "SYP",
+      "number": "760"
+    }
+  },
+  {
+    "country": {
+      "name": {
+        "local": "Unknown",
+        "common": "Thailand"
+      },
+      "code": "tha",
+      "number": "764"
+    },
+    "currency": {
+      "name": {
+        "local": "Unknown",
+        "common": "Thai Baht"
+      },
+      "symbol": {
+        "local": "฿",
+        "common": "฿"
+      },
+      "rounding": 2,
+      "code": "THB",
+      "number": "764"
+    }
+  },
+  {
+    "country": {
+      "name": {
+        "local": "Unknown",
+        "common": "Tunisia"
+      },
+      "code": "tun",
+      "number": "788"
+    },
+    "currency": {
+      "name": {
+        "local": "Unknown",
+        "common": "Tunisian Dinars"
+      },
+      "symbol": {
+        "local": "د.ت.‏",
+        "common": "DT"
+      },
+      "rounding": 3,
+      "code": "TND",
+      "number": "788"
+    }
+  },
+  {
+    "country": {
+      "name": {
+        "local": "Unknown",
+        "common": "Tonga"
+      },
+      "code": "ton",
+      "number": "776"
+    },
+    "currency": {
+      "name": {
+        "local": "Unknown",
+        "common": "Tongan Paʻanga"
+      },
+      "symbol": {
+        "local": "T$",
+        "common": "T$"
+      },
+      "rounding": 2,
+      "code": "TOP",
+      "number": "776"
+    }
+  },
+  {
+    "country": {
+      "name": {
+        "local": "Unknown",
+        "common": "Turkey"
+      },
+      "code": "tur",
+      "number": "792"
+    },
+    "currency": {
+      "name": {
+        "local": "Unknown",
+        "common": "Turkish Lira"
+      },
+      "symbol": {
+        "local": "TL",
+        "common": "TL"
+      },
+      "rounding": 2,
+      "code": "TRY",
+      "number": "949"
+    }
+  },
+  {
+    "country": {
+      "name": {
+        "local": "Unknown",
+        "common": "Trinidad and tobago"
+      },
+      "code": "tto",
+      "number": "780"
+    },
+    "currency": {
+      "name": {
+        "local": "Unknown",
+        "common": "Trinidad And Tobago Dollars"
+      },
+      "symbol": {
+        "local": "$",
+        "common": "TT$"
+      },
+      "rounding": 2,
+      "code": "TTD",
+      "number": "780"
+    }
+  },
+  {
+    "country": {
+      "name": {
+        "local": "Unknown",
+        "common": "Taiwan (Province of China)"
+      },
+      "code": "twn",
+      "number": "158"
+    },
+    "currency": {
+      "name": {
+        "local": "Unknown",
+        "common": "New Taiwan Dollars"
+      },
+      "symbol": {
+        "local": "NT$",
+        "common": "NT$"
+      },
+      "rounding": 2,
+      "code": "TWD",
+      "number": "901"
+    }
+  },
+  {
+    "country": {
+      "name": {
+        "local": "Unknown",
+        "common": "Tanzania"
+      },
+      "code": "tza",
+      "number": "834"
+    },
+    "currency": {
+      "name": {
+        "local": "Unknown",
+        "common": "Tanzanian Shillings"
+      },
+      "symbol": {
+        "local": "TSh",
+        "common": "TSh"
+      },
+      "rounding": 0,
+      "code": "TZS",
+      "number": "834"
+    }
+  },
+  {
+    "country": {
+      "name": {
+        "local": "Unknown",
+        "common": "Ukraine"
+      },
+      "code": "ukr",
+      "number": "804"
+    },
+    "currency": {
+      "name": {
+        "local": "Unknown",
+        "common": "Ukrainian Hryvnias"
+      },
+      "symbol": {
+        "local": "₴",
+        "common": "₴"
+      },
+      "rounding": 2,
+      "code": "UAH",
+      "number": "980"
+    }
+  },
+  {
+    "country": {
+      "name": {
+        "local": "Unknown",
+        "common": "Uganda"
+      },
+      "code": "uga",
+      "number": "800"
+    },
+    "currency": {
+      "name": {
+        "local": "Unknown",
+        "common": "Ugandan Shillings"
+      },
+      "symbol": {
+        "local": "USh",
+        "common": "USh"
+      },
+      "rounding": 0,
+      "code": "UGX",
+      "number": "800"
+    }
+  },
+  {
+    "country": {
+      "name": {
+        "local": "Unknown",
+        "common": "American Samoa"
+      },
+      "code": "asm",
+      "number": "16"
+    },
+    "currency": {
+      "name": {
+        "local": "Unknown",
+        "common": "US Dollars"
+      },
+      "symbol": {
+        "local": "$",
+        "common": "$"
+      },
+      "rounding": 2,
+      "code": "USD",
+      "number": "840"
+    }
+  },
+  {
+    "country": {
+      "name": {
+        "local": "Unknown",
+        "common": "Uruguay"
+      },
+      "code": "ury",
+      "number": "858"
+    },
+    "currency": {
+      "name": {
+        "local": "Unknown",
+        "common": "Uruguayan Pesos"
+      },
+      "symbol": {
+        "local": "$",
+        "common": "$U"
+      },
+      "rounding": 2,
+      "code": "UYU",
+      "number": "858"
+    }
+  },
+  {
+    "country": {
+      "name": {
+        "local": "Unknown",
+        "common": "Uzbekistan"
+      },
+      "code": "uzb",
+      "number": "860"
+    },
+    "currency": {
+      "name": {
+        "local": "Unknown",
+        "common": "Uzbekistan Som"
+      },
+      "symbol": {
+        "local": "UZS",
+        "common": "UZS"
+      },
+      "rounding": 0,
+      "code": "UZS",
+      "number": "860"
+    }
+  },
+  {
+    "country": {
+      "name": {
+        "local": "Unknown",
+        "common": "Venezuela (Bolivarian Republic of)"
+      },
+      "code": "ven",
+      "number": "862"
+    },
+    "currency": {
+      "name": {
+        "local": "Unknown",
+        "common": "Venezuelan Bolívars"
+      },
+      "symbol": {
+        "local": "Bs.F.",
+        "common": "Bs.F."
+      },
+      "rounding": 2,
+      "code": "VEF",
+      "number": "937"
+    }
+  },
+  {
+    "country": {
+      "name": {
+        "local": "Unknown",
+        "common": "Viet Nam"
+      },
+      "code": "vnm",
+      "number": "704"
+    },
+    "currency": {
+      "name": {
+        "local": "Unknown",
+        "common": "Vietnamese Dong"
+      },
+      "symbol": {
+        "local": "₫",
+        "common": "₫"
+      },
+      "rounding": 0,
+      "code": "VND",
+      "number": "704"
+    }
+  },
+  {
+    "country": {
+      "name": {
+        "local": "Unknown",
+        "common": "Cameroon"
+      },
+      "code": "cmr",
+      "number": "120"
+    },
+    "currency": {
+      "name": {
+        "local": "Unknown",
+        "common": "CFA Francs BEAC"
+      },
+      "symbol": {
+        "local": "FCFA",
+        "common": "FCFA"
+      },
+      "rounding": 0,
+      "code": "XAF",
+      "number": "950"
+    }
+  },
+  {
+    "country": {
+      "name": {
+        "local": "Unknown",
+        "common": "Benin"
+      },
+      "code": "ben",
+      "number": "204"
+    },
+    "currency": {
+      "name": {
+        "local": "Unknown",
+        "common": "CFA Francs BCEAO"
+      },
+      "symbol": {
+        "local": "CFA",
+        "common": "CFA"
+      },
+      "rounding": 0,
+      "code": "XOF",
+      "number": "952"
+    }
+  },
+  {
+    "country": {
+      "name": {
+        "local": "Unknown",
+        "common": "Yemen"
+      },
+      "code": "yem",
+      "number": "887"
+    },
+    "currency": {
+      "name": {
+        "local": "Unknown",
+        "common": "Yemeni Rials"
+      },
+      "symbol": {
+        "local": "ر.ي.‏",
+        "common": "YR"
+      },
+      "rounding": 0,
+      "code": "YER",
+      "number": "886"
+    }
+  },
+  {
+    "country": {
+      "name": {
+        "local": "Unknown",
+        "common": "South Africa"
+      },
+      "code": "zaf",
+      "number": "710"
+    },
+    "currency": {
+      "name": {
+        "local": "Unknown",
+        "common": "South African Rand"
+      },
+      "symbol": {
+        "local": "R",
+        "common": "R"
+      },
+      "rounding": 2,
+      "code": "ZAR",
+      "number": "710"
+    }
+  },
+  {
+    "country": {
+      "name": {
+        "local": "Unknown",
+        "common": "Zambia"
+      },
+      "code": "zmb",
+      "number": "894"
+    },
+    "currency": {
+      "name": {
+        "local": "Unknown",
+        "common": "Zambian Kwachas"
+      },
+      "symbol": {
+        "local": "ZK",
+        "common": "ZK"
+      },
+      "rounding": 0,
+      "code": "ZMW",
+      "number": "967"
+    }
+  },
+  {
+    "country": {
+      "name": {
+        "local": "Unknown",
+        "common": "Zimbabwe"
+      },
+      "code": "zwe",
+      "number": "716"
+    },
+    "currency": {
+      "name": {
+        "local": "Unknown",
+        "common": "Zimbabwean Dollar"
+      },
+      "symbol": {
+        "local": "ZWL$",
+        "common": "ZWL$"
+      },
+      "rounding": 0,
+      "code": "ZWL",
+      "number": "932"
     }
   }
 ]
